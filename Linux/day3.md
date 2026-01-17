@@ -1,3 +1,6 @@
+
+```
+
 - Getting Started with Operating Systems
 os software bridge between user and hardware 
 
@@ -125,7 +128,7 @@ Kernal software --> Linux kernal ---> computer and user ---> teranslation
 shell ---> cli ---> users ---> interface ---> commands 
 application ---> application ---> where we get an shell to put our command 
 
-
+```
 
 
 
