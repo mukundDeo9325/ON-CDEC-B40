@@ -58,11 +58,13 @@
 * Most **cloud servers** run on Linux
 * Used in:
 
-  * Data centers
-  * Web servers
-  * Networking devices
-  * Firewalls
-  * Supercomputers
+  * Data centers ---> ec2 instances --> linux based servers 
+  * Web servers ----> Apache, Nginx , tomcat , etc
+  * Networking devices --> routers , switches
+  * Firewalls ---> external threat protection
+  * Supercomputers ---> scientific research
+  * Mobile devices ---> android OS
+  * IoT devices ---> smart home gadgets, medical equipment 
 * Industry standard for backend infrastructure
 
 ---
@@ -72,13 +74,21 @@
 * OS is a software that controls **hardware & applications**.
 * Examples:
 
-  * Windows
-  * Linux (Unix family)
-  * macOS
-  * Android
-  * iOS
+  * Windows ---> windows 11  --->                   microsoft
+  * Linux (Unix family) --> Ubuntu, CentOS --->    open source
+  * macOS ---> macOS tahoe.      -->                apple
+  * Android ---> android 17  --->                   google
+  * iOS (iphone) ---> iOS 26  --->                  apple
 
 ---
+OS :
+single user with single tasking ----> typerwriter os
+single user with multiple tasking ----> desktop os
+multi user with multitasking ----> server os ---> linux based os
+
+
+
+
 
 ## **Windows vs Linux**
 
@@ -102,13 +112,13 @@
 
 ## **Basic Linux Commands**
 
-| Action                  | Command            |
-| ----------------------- | ------------------ |
-| Check Current Directory | `pwd`              |
-| List Files/Folders      | `ls`               |
-| Change Directory        | `cd foldername/`   |
-| Create File             | `touch filename`   |
-| View File Content       | `cat filename`     |
-| Make Directory          | `mkdir foldername` |
+| Action                  | Command            | Description                       |
+| ----------------------- | ------------------ | --------------------------------- |
+| Check Current Directory | `pwd`              | present working directory         |
+| List Files/Folders      | `ls`               | list files and folders           |
+| Change Directory        | `cd foldername/`   | change to specified directory    |
+| Create File             | `touch filename`   | create a new file                |
+| View File Content       | `cat filename`     | display file content              |
+| Make Directory          | `mkdir foldername` | create a new directory            |
 
 ---
