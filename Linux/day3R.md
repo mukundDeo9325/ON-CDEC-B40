@@ -122,3 +122,7 @@ multi user with multitasking ----> server os ---> linux based os
 | Make Directory          | `mkdir foldername` | create a new directory            |
 
 ---
+
+
+
+
