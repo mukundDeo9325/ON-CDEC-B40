@@ -20,3 +20,10 @@ ubuntu@Hostname:~$
 root@ip-172-31-79-93:~#
 
 ```
+<img width="851" height="562" alt="Screenshot 2026-01-19 at 7 53 31 PM" src="https://github.com/user-attachments/assets/57b5c682-1208-405f-a2ba-7dd3ba2695f9" />
+
+
+
+
+
+
