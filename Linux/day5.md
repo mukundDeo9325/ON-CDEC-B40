@@ -13,7 +13,7 @@ cat file.txt
 
 ## files 
 drwxrwxr-x 2 labex labex 6 Jan 20 22:41 dir
-
+```
 d - file type dirctory 
 u - 
 g - 
@@ -26,11 +26,10 @@ jan 20 - date
 22:41 - time 
 dir - file/dir name 
 
-
+```
 
 ## to crete hidden file
 touch .filename ----> crete hidden file 
-
 
 
 ## edditors 
@@ -40,6 +39,7 @@ touch .filename ----> crete hidden file
 4 . piko 
 
 ## vim / vi 
+```
 1 --> command mode ---> esc 
  yy ---> copy lines 
  yw ---> copy words
@@ -66,7 +66,8 @@ write the data in the file
 y --> copy 
 p ----> past 
 d ---> delete
-
+```
+```
 
 ## 3 . nano / pico 
 nano filename 
@@ -81,4 +82,4 @@ ctrl + x ---> exit
 - whatis ---> info about the command 
 - --help ---> helping 
 - --info ---> helping 
-
+```
