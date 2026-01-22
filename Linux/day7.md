@@ -1,0 +1,8 @@
+- Overview of Vim and its History
+- Basic Concepts: Modes in Vim (Command, Insert, Visual, Execute)
+- Basic Navigation in Command Mode
+- Undo and Redo
+- Entering Insert Mode
+- Editing Text in Insert Mode
+- Navigating and Editing in Insert Mode
+- Exiting Insert Mode
