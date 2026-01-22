@@ -1,9 +1,9 @@
 - Overview of Vim and its History
-vim --> advance version of vi
-nano and pico 
+- vim --> advance version of vi
+- nano and pico 
 
 - Basic Concepts: Modes in Vim (Command, Insert, Visual, Execute)
-modes 
+** modes 
 vi, vim --> advance and light weight edditor 
 1. command mode (esc) ---> shotcutes and exicutable --> defalt mode
 2. insert mode (witing data --> manupalating text)---> i
@@ -14,17 +14,18 @@ vi, vim --> advance and light weight edditor
 
 
 - Basic Navigation in Command Mode
+```
 yy ---> copy line 
 yw ---> copy word 
 p ----> past coppied lines 
 dw ---> delete word 
 dd ---> delete line 
+```
 
 
-
-- Undo and Redo (Command Mode)
-u ---> undo 
-ctrl + r ---> redo 
+** Undo and Redo (Command Mode)
+- u ---> undo 
+- ctrl + r ---> redo 
 
 - Entering Insert Mode ---> text eddit 
 
@@ -33,11 +34,11 @@ ctrl + r ---> redo
 - Exiting Insert Mode ----> esc 
 
 
-vi/vim exit from vim edditor 
-command mode (esc)----> exution mode (:wq) --> enter
+- vi/vim exit from vim edditor 
+- command mode (esc)----> exution mode (:wq) --> enter
 
 
-Question 
+- Question 
 ```
 how many modes are there in vim edditor ?
 ```
