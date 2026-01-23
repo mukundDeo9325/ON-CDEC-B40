@@ -1,0 +1,5 @@
+- Entering Execute Mode
+- Executing Basic Commands: File Operations(w,q), Searching, Line Numbering
+- Entering Visual Mode
+- Visual Mode
+- Revisioning the complete vim editor
