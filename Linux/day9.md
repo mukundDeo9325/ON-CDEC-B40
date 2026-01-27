@@ -9,11 +9,12 @@
   cat /etc/passwd
   ```
 
-- UID 
-`root ---> 0 
+### UID 
+```
+ root ---> 0 
  local user --> 1000 to 65536+ /home/username
  system user ---> 1 to 999 
-`
+```
 
 # adding an user to linux system 
 - `adduser <username>` - affect the user related files , crete home dir /home/username , and password permision 
