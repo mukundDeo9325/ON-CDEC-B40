@@ -1,3 +1,4 @@
+```
 ## **Introduction to DevOps**
 
 * DevOps means **Development + Operations** working together.
@@ -185,3 +186,4 @@ du --> disk usage
 free --> view memory usage
 less --> view large files page by page last 10 lines of file
 more --> view large files page by page first 10 lines of file
+```
