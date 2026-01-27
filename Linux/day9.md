@@ -25,6 +25,113 @@ swich from one user to another
 - check all the group in wich user is added `groups <username>`
 - to check history `history`(show all the command run by that user) ---history is userspecific
 
+---
+### Overview of User and Permission Management
+# Linux User & Permission Management
+
+---
+
+## Overview of User and Permission Management
+
+Linux is a **multi-user operating system**. Each user has specific permissions to access files and resources.
+
+---
+
+## Types of Users
+
+| User Type | Description |
+|---------|-------------|
+| Root | Superuser (Admin) |
+| Normal User | Regular system user |
+| System User | Service accounts |
+
+---
+
+## Creating Users (useradd)
+
+```bash
+sudo useradd devuser
+```
+
+Create with home directory:
+
+```bash
+sudo useradd -m devuser
+```
+
+---
+
+## Setting User Password
+
+```bash
+sudo passwd devuser
+```
+
+---
+
+## Managing Groups
+
+Create group:
+
+```bash
+sudo groupadd devops
+```
+
+Add user to group:
+
+```bash
+sudo usermod -aG devops devuser
+```
+
+Check user groups:
+
+```bash
+groups devuser
+```
+
+---
+
+## Removing Users
+
+```bash
+sudo userdel devuser
+```
+
+Delete with home:
+
+```bash
+sudo userdel -r devuser
+```
+
+---
+
+## Important Affected Files
+
+| File | Purpose |
+|----|--------|
+| `/etc/passwd` | User accounts |
+| `/etc/shadow` | Encrypted passwords |
+| `/etc/group` | Group details |
+
+---
+
+## User Home Directories
+
+Located at:
+
+```bash
+/home/username
+```
+
+---
+
+## Switch Between Users
+
+### Using su Command
+
+```bash
+su - username
+```
 
 
 
