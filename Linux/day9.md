@@ -1,5 +1,5 @@
 
----
+```
 ## Managing Users and Permissions in Linux
 - currently user is effective 
 `whoami` 
@@ -26,7 +26,7 @@ swich from one user to another
 - check all the group in wich user is added `groups <username>`
 - to check history `history`(show all the command run by that user) ---history is userspecific
 
-
+```
 
 
 
