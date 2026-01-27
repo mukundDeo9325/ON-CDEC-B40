@@ -1,9 +1,13 @@
 
 ## Managing Users and Permissions in Linux
 - currently user is effective 
-- `whoami` 
+  ```
+  whoami
+  ``` 
 - all user list 
-- `cat /etc/passwd`
+  ```
+  cat /etc/passwd
+  ```
 
 - UID 
 `root ---> 0 
