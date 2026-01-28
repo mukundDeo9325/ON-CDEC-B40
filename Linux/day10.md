@@ -48,6 +48,15 @@ chage -E 2026-10-15 username    ## Set account expiry date ; After 31 Dec 2025, 
 | Expire | Expiry date |
 
 ---
+<img width="1155" height="698" alt="Screenshot 2026-01-28 at 9 25 56 PM" src="https://github.com/user-attachments/assets/92cef543-79e3-4700-a978-cf375933ad78" />
+---
+<img width="1074" height="666" alt="Screenshot 2026-01-28 at 9 26 20 PM" src="https://github.com/user-attachments/assets/9871cd32-9855-4dad-8054-cad7ded34143" />
+---
+<img width="951" height="520" alt="Screenshot 2026-01-28 at 9 26 37 PM" src="https://github.com/user-attachments/assets/abe51d0c-0849-4bbe-b87b-ca26186b4ea1" />
+---
+<img width="927" height="486" alt="Screenshot 2026-01-28 at 9 26 51 PM" src="https://github.com/user-attachments/assets/1c7620c5-91c2-48d1-a191-60408e840e96" />
+
+---
 
 ## Using chage Command
 
