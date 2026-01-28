@@ -30,6 +30,11 @@ chage -E 2026-10-15 username    ## Set account expiry date ; After 31 Dec 2025, 
 ---
 
 ## Understanding /etc/shadow Fields
+- `cat` --> to read full file 
+- `head` ----> to read file from start 
+- `head -n 10 file.txt` ---> read file first 10 lines 
+- `tail` ----> to raed file from last 
+- `tail -n 10 file.txt` ---> read files from bottom 10 lines 
 
 | Field | Description |
 |----|---------|
