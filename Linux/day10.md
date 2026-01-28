@@ -5,7 +5,7 @@
 
 Change password:
 ```bash
-passwd username
+passwd username  ## root user chnage normall user password 
 ```
 
 Lock user:
@@ -24,7 +24,7 @@ passwd -u username
 ```bash
 chage -l username   ## Check current policy
 chage -M 90 username    ## Set maximum password validity to 90 days
-chage -E 2025-12-31 username    ## Set account expiry date ; After 31 Dec 2025, user cannot log in (even with correct password)
+chage -E 2026-10-15 username    ## Set account expiry date ; After 31 Dec 2025, user cannot log in (even with correct password)
 ```
 
 ---
