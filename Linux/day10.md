@@ -64,6 +64,9 @@ Groups are used to manage permissions for multiple users.
 ---
 
 ## Types of Groups
+```
+groups username ## to check the user group
+```
 
 | Type | Description |
 |----|-------------|
