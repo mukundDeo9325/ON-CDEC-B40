@@ -81,7 +81,10 @@ groups username ## to check the user group
 groupadd devops  ## New group create
 groupdel devops   ## Existing group delete
 ```
-
+##Creating & Deleting user 
+```
+userdel username
+```
 ---
 
 ## Modifying Groups
@@ -95,8 +98,8 @@ groupmod -n newgroup oldgroup  ## changing group name
 ## Managing Group Membership
 
 ```bash
-usermod -aG devops devuser
-gpasswd -d devuser devops
+usermod -aG devops devuser  # to add user in group 
+gpasswd -d devuser devops   # to remove user from group 
 ```
 - `usermod -aG` safely adds a user to a secondary group, while `gpasswd -d` removes a user from a group.
 ---
