@@ -2,7 +2,7 @@
 # Linux Password & Group Management
 
 ## Using passwd Command
-
+root user can exicute command 
 Change password:
 ```bash
 passwd username  ## root user chnage normall user password 
