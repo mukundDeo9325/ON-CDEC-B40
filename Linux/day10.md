@@ -119,3 +119,5 @@ gpasswd -d devuser devops   # to remove user from group
 groups username
 cat /etc/group
 ```
+----
+video solve 
