@@ -20,7 +20,16 @@ The `sudo` command allows a permitted user to execute a command as the superuser
 
 how to create and normal user without sudo privileges:
 * modify /etc/sudoers file using visudo command:
+  ```bash
+  vim /etc/sudoers
+  ```
   - `username ALL=(ALL:ALL) ALL`  --> to give sudo privileges
+
+## to change to root user use 
+```bash
+sudo -i
+```
+
 
 
 ## su --> switch user
