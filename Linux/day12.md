@@ -39,6 +39,7 @@ The `su` command is used to switch to another user account in a Linux system. By
 * Regular User:
   - Has limited permissions and can only perform actions allowed by the system administrator.
   - Cannot execute commands that require elevated privileges.
+  
 * Sudo User:        
   - Has the ability to execute commands with superuser privileges using the `sudo` command.
   - Can perform administrative tasks as permitted by the system administrator.
