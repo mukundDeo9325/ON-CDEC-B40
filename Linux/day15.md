@@ -303,3 +303,15 @@ Example:
 ```bash
 systemctl start nginx
 ```
+## monitoring Questions
+```yaml
+how to monitor linux servers in real time
+difference between top and ps
+what is nice value
+explain kill command
+what is first process which is started in linux machine ----> systemd --pid 1
+jobs command --> running process list
+what are zombi process ?? 
+```
+
+
