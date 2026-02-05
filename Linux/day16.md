@@ -99,4 +99,13 @@ Understanding parent-child relationships among processes helps analyze system be
   ```
   - Shows processes along with their PIDs.
 
+```
+what is top in linux
+how can you claculate cpu usage ?
+what is the first process which is running in linux system ?
+what is systemd process ?
+```
+
+
+
 ---
