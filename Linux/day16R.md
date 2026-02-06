@@ -1,1 +1,2 @@
-## revision session file system ![file/dir_fields](./Linuxfile.key)
+## revision session file permission 
+`ls -l` --> long list file / dir 
